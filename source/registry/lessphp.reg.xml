@@ -1,0 +1,5 @@
+<registry>
+	<application name="LESSPHP" base="/less-processor" map="hard">
+		<class name="lessc" script="lessphp/lessc.inc.php" />
+	</application>
+</registry>
